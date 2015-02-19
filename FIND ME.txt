@@ -1,0 +1,9 @@
+Relation of salinity and selenium in shallow groundwater to hydrologic and geochemical processes, Western San Joaquin Valley, California
+
+    S.J. Deverel,
+    S.K. Gallanthine
+	10.1016/0022-1694(89)90011-5
+
+^ Reed JF, Lynn F, Meade BD. (2002) "Use of Coefficient of Variation in Assessing Variability of Quantitative Assays". Clin Diagn Lab Immunol. 9(6): 1235–1239. doi:10.1128/CDLI.9.6.1235-1239.2002
+
+Spiess, Andrej-Nikolai, Natalie Neumeyer. An evaluation of R2 as an inadequate measure for nonlinear models in pharmacological and biochemical research: a Monte Carlo approach. BMC Pharmacology. 2010; 10: 6.
